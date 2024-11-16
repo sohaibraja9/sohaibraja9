@@ -50,11 +50,11 @@
 
 ## 📫 Get in Touch
 - 📧 Email: [sohaibraja7@gmail.com](mailto:sohaibraja7@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sohaib-raja-a934b8116/)
+- 💼 LinkedIn: [Sohaib Raja](https://www.linkedin.com/in/sohaib-raja-a934b8116/)
 
 ## 🌟 GitHub Stats
 ![Muhammad Sohaib Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=blue-green)
 
 ## 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-sohaib-raja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sohaib-raja-a934b8116/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sohaibraja7@gmail.com)
