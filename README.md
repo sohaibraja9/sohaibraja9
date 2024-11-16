@@ -50,7 +50,7 @@
 
 ## 📫 Get in Touch
 - 📧 Email: [sohaibraja7@gmail.com](mailto:sohaibraja7@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-sohaib-raja)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sohaib-raja-a934b8116/)
 
 ## 🌟 GitHub Stats
 ![Muhammad Sohaib Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=blue-green)
